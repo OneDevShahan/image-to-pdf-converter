@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/image-to-pdf-converter/static/css/main.49e08175.css",
-    "main.js": "/image-to-pdf-converter/static/js/main.e43d269b.js",
+    "main.js": "/image-to-pdf-converter/static/js/main.78131642.js",
     "static/js/239.76ebcdc5.chunk.js": "/image-to-pdf-converter/static/js/239.76ebcdc5.chunk.js",
     "static/js/213.0331b094.chunk.js": "/image-to-pdf-converter/static/js/213.0331b094.chunk.js",
     "static/js/732.ca670d38.chunk.js": "/image-to-pdf-converter/static/js/732.ca670d38.chunk.js",
     "static/js/453.3fd0b1db.chunk.js": "/image-to-pdf-converter/static/js/453.3fd0b1db.chunk.js",
     "index.html": "/image-to-pdf-converter/index.html",
     "main.49e08175.css.map": "/image-to-pdf-converter/static/css/main.49e08175.css.map",
-    "main.e43d269b.js.map": "/image-to-pdf-converter/static/js/main.e43d269b.js.map",
+    "main.78131642.js.map": "/image-to-pdf-converter/static/js/main.78131642.js.map",
     "239.76ebcdc5.chunk.js.map": "/image-to-pdf-converter/static/js/239.76ebcdc5.chunk.js.map",
     "213.0331b094.chunk.js.map": "/image-to-pdf-converter/static/js/213.0331b094.chunk.js.map",
     "732.ca670d38.chunk.js.map": "/image-to-pdf-converter/static/js/732.ca670d38.chunk.js.map",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.49e08175.css",
-    "static/js/main.e43d269b.js"
+    "static/js/main.78131642.js"
   ]
 }
